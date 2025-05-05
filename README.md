@@ -1,1 +1,4 @@
 # resumo-do-lab
+Este repositório contém o meu entendimento sobre a aula de computação em nuvem
+
+Computação em nuvem é um modelo de computação que consiste em abstrair o gerenciamento e virtualizar o acesso a operações e recursos associados ao servidor, tudo conectado via internet. A partir deste conceito, e em função das demandas de um mundo cada vez mais exigente quanto a velocidade, confiabilidade e portabilidade da informação, surgiram modelos de computação em nuvem que são: pública, privada e híbrida. Na primeira, o servidor possui acesso aberto a qualquer usuário; o segundo é mais restrito, limitando-se apenas ao órgão que gere o servidor, o qual infere em mais responsabilidades de ordem física e operacional do Data Center; o último acessa o melhor dos dois mundos, permitindo maior flexibilidade no uso dele.
