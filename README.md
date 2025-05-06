@@ -7,12 +7,18 @@ Este repositório contém o meu entendimento sobre a aula de computação em nuv
 ## Benefícios da Nuvem - Resumo
   O benefícios inerentes a Computação em Nuvem são desenvolvidos tendo em vista a experiência do cliente, no que se refere a capacidade de fornecer soluções que atendam critérios como: 
 
-  Escalabilidade: Capacidade de aumentar a capacidade dos recursos conforme a demanda prevista
-  Elasticidade: Cresce e diminui de capacidade conforme a demanda dinâmica por recursos
+  Escalabilidade: Capacidade de aumentar a capacidade dos recursos conforme a demanda prevista.
+  
+  Elasticidade: Cresce e diminui de capacidade conforme a demanda dinâmica por recursos.
+  
   Governaça: Visa alinhar a estratégia de TI com os objetivos de negócios, gerenciar riscos, garantir conformidade com regulamentações e otimizar custos. 
-  Gerenciabilidade: Capacidade de controlar, monitorar e otimizar recursos e serviços de nuvem, incluindo infraestrutura, aplicativos e dados, para garantir eficiência, segurança e controle de custos. A escalabilidade e a elasticidade são dois exemplos de gerenciabilidade 
+  
+  Gerenciabilidade: Capacidade de controlar, monitorar e otimizar recursos e serviços de nuvem, incluindo infraestrutura, aplicativos e dados, para garantir eficiência, segurança e controle de custos. A escalabilidade e a elasticidade são dois exemplos de gerenciabilidade .
+  
   Confiabilidade: Refere-se ao quão resiliente e confiável é a sua solução em nuvem mediante quedas do servidor e sistema fora do ar.
-  Previsibilidade: Capacidade de antecipar e controlar o comportamento de recursos, como custo, desempenho e uso, com base em dados históricos e tendências
-  Segurança: É o conjunto de políticas, controles, tecnologias e práticas de segurança que são usadas para proteger dados, aplicativos e infraestrutura em ambientes de nuvem
+  
+  Previsibilidade: Capacidade de antecipar e controlar o comportamento de recursos, como custo, desempenho e uso, com base em dados históricos e tendências.
+  
+  Segurança: É o conjunto de políticas, controles, tecnologias e práticas de segurança que são usadas para proteger dados, aplicativos e infraestrutura em ambientes de nuvem.
   
 
