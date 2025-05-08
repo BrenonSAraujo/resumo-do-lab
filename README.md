@@ -20,5 +20,14 @@ Este repositório contém o meu entendimento sobre a aula de computação em nuv
   Previsibilidade: Capacidade de antecipar e controlar o comportamento de recursos, como custo, desempenho e uso, com base em dados históricos e tendências.
   
   Segurança: É o conjunto de políticas, controles, tecnologias e práticas de segurança que são usadas para proteger dados, aplicativos e infraestrutura em ambientes de nuvem.
+
+  ## Tipos de Serviços da Nuvem - Resumo
+  Quando se pensa em desenvolver uma solução por meio da nuvem, é possível escolher qual é o nível de responsabilidade que cada parte (cliente e provedor) terá, a fim de obter clareza na distribuição de direitos e deveres, assim evitando problemas de comunicação. Neste sentido, é importante entender os tipos de serviços de nuvem, que variam conforme aumentam ou diminuem o dever de cada um. São eles:
+  
+  IaaS: O cliente tem maior controle sobre a infraestrutura da aplicação. Assuntos como criação de instâncias, hosts e por aí vai são configurados por ele. Exemplo de IaaS é a AWS.
+  
+  PaaS: É um serviço cuja plataforma utilizada na criação de aplicações cuida da infraestrutura e permite realizar operações como deploy em algum ambiente, testes e hospedagem de páginas web. A Vercel é um ótimo exemplo de PaaS.
+  
+  SaaS: O serviço com menos responsabilidade para o clinte, pois ele só precisa autenticar e ser autorizado para então fazer uso do software disponibilizado gratuitamente. O Postman API e o GitHub representam o serviço de SaaS.
   
 
