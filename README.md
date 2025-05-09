@@ -41,4 +41,22 @@ Quanto à assinatura do Azure, ele é como o meu passe de entrada no parque. Eu 
 
 Por fim, o grupo de gerenciamento é como um chefe de excursão com várias turmas, precisa organizar tudo. O grupo de gerenciamento é a prancheta do chefe, onde ele agrupa vários passes de entrada (assinaturas) e aplica regras para todas elas ao mesmo tempo — como horários, limites de gastos, segurança etc.
 
+## Computação e Rede - Resumo
+
+Serviços de Computação e Máquinas Virtuais do Azure
+
+O Azure oferece uma variedade de serviços de computação que permitem a execução de aplicações e cargas de trabalho na nuvem. Um dos principais serviços é a Máquina Virtual (VM), que simula um computador físico e permite que o usuário execute sistemas operacionais e aplicativos como se estivesse em um ambiente local. As VMs do Azure são altamente configuráveis, permitindo a escolha de sistema operacional, tamanho, desempenho e localização geográfica. Elas são ideais para cenários que exigem controle total do sistema, como testes, desenvolvimento e hospedagem de aplicações empresariais.
+
+Conjuntos de Disponibilidade de Máquinas Virtuais do Azure
+
+Os Conjuntos de Disponibilidade (Availability Sets) são um recurso que melhora a alta disponibilidade das VMs. Ao distribuir as máquinas virtuais entre domínios de falha e domínios de atualização, o Azure reduz a probabilidade de que uma interrupção de hardware ou uma manutenção planejada afete todas as VMs simultaneamente. Dessa forma, mesmo que parte da infraestrutura sofra problemas, outras instâncias continuarão funcionando, garantindo a continuidade do serviço.
+
+Área de Trabalho Virtual e Contêineres do Azure
+
+A Área de Trabalho Virtual do Azure (Azure Virtual Desktop) é uma solução de virtualização que permite aos usuários acessarem um ambiente de desktop remoto, hospedado na nuvem. Essa funcionalidade é muito útil para empresas que desejam fornecer acesso seguro e centralizado a aplicativos e dados. Já os contêineres, como os do Azure Kubernetes Service (AKS), oferecem uma forma leve e eficiente de empacotar, distribuir e gerenciar aplicações em ambientes isolados. Os contêineres são mais rápidos para iniciar e consomem menos recursos que VMs tradicionais, sendo ideais para aplicações em nuvem escaláveis.
+
+Azure Functions e Serviços de Aplicativo do Azure
+
+O Azure Functions é um serviço de computação sem servidor (serverless) que executa trechos de código em resposta a eventos, sem a necessidade de gerenciar infraestrutura. Ele é ideal para tarefas automatizadas e processos de integração. Já o Serviço de Aplicativo (App Service) do Azure permite a criação e o gerenciamento de aplicativos web e APIs em diversas linguagens, como .NET, Java, Node.js e Python. Ele fornece escalabilidade automática, integração com DevOps e alta disponibilidade, facilitando o desenvolvimento e a hospedagem de aplicações modernas na nuvem.
+
 
